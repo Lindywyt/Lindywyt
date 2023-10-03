@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lindywyt
+- 👋 Hi, I’m @Lindy
 - 👀 I’m interested in data analysis, visualization, and extracting insights from complex datasets.
 - 🌱 I’m currently learning and exploring Power Bi to enhance my visualization skills.
 - 💞️ I’m looking to collaborate on projects related to data analysis, and data visualization.
